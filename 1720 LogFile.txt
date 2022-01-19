@@ -9,3 +9,5 @@ Lab starts wednesday
 1/17 ✅
 1/18 ✅
 - Lab tmr (in class lab)
+1/19 ✅
+- Lab project 1 due by next week lab (browser extension)
