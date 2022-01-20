@@ -11,3 +11,5 @@ Lab starts wednesday
 - Lab tmr (in class lab)
 1/19 ✅
 - Lab project 1 due by next week lab (browser extension)
+1/20 ✅
+- Lab project to do:
