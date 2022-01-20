@@ -10,6 +10,9 @@ Lab starts wednesday
 1/18 ✅
 - Lab tmr (in class lab)
 1/19 ✅
-- Lab project 1 due by next week lab (browser extension)
+- Lab project 1 due by next week lab 
 1/20 ✅
 - Lab project to do:
+- Take a look at example extension
+- Create a browser extension (chrome or firefox)
+- The browser extension should change the behavior of a web browser 
