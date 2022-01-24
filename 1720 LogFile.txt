@@ -16,3 +16,7 @@ Lab starts wednesday
 - Take a look at example extension
 - Create a browser extension (chrome or firefox)
 - The browser extension should change the behavior of a web browser 
+1/21 ✅
+1/22 ✅
+1/23 ✅
+- Update to project 1 now due Feb 2nd
